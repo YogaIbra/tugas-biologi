@@ -66,17 +66,6 @@ p{
     -3px 0px 7px rgba(0, 0, 0, 0.8), 
     0px 4px 7px rgba(0, 0, 0, 0.8);
 }
-.end{
-    width: 100%;
-    height: 40px;
-    color: white;
-    font-size: 30px;
-    font-weight: 400;
-    font-family: 'Permanent Marker', cursive;
-}
-.end p .hati{
-    color: red;
-}
 #click{
     display: none;
 }
@@ -108,7 +97,7 @@ p{
         width: 100%;
         height: 40px;
         color: white;
-        font-size: 5px;
+        font-size: 1px;
         font-weight: 100;
         font-family: 'Permanent Marker', cursive;
     }
